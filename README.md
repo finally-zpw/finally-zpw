@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/finally-zpw" title="GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzpw&query=%24.data.totalSubs&logo=github&label=GitHub%20Zyan&color=24292E" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzpw&query=%24.data.totalSubs&logo=github&label=GitHub%20zpw&color=24292E" />
   </a>
   <a href="https://space.bilibili.com/381499834" title="Bilibili" target="_blank">
     <img src="https://img.shields.io/badge/dynamic/json?color=353940&labelColor=f27596&label=Bilibili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D381499834&logo=Bilibili&logoColor=white" />
