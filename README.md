@@ -1,13 +1,13 @@
 ![](assets/Bottom_up.svg)
 
 <p align="center">
-  <a href="https://mozi-ai.xyz/">
+  <a href="https://zpw.xyz/">
     <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=100&size=45&duration=4000&pause=4000&center=true&vCenter=true&multiline=true&width=420&height=70&lines=Zyan.github.io" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zyan-git" title="GitHub" target="_blank">
+  <a href="https://github.com/finally-zpw" title="GitHub" target="_blank">
     <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dzyan-git&query=%24.data.totalSubs&logo=github&label=GitHub%20Zyan&color=24292E" />
   </a>
   <a href="https://space.bilibili.com/381499834" title="Bilibili" target="_blank">
@@ -68,10 +68,10 @@
 
 <p align="center">
   🌐 <a href="https://mozi-ai.xyz/">个人网站</a> |
-  ✉️ 2138844072@qq.com |
+  ✉️ 2501590732@qq.com |
   💬 微信 / QQ：请私聊索取 |
-  📌 <a href="https://space.bilibili.com/381499834">Bilibili</a> |
-  📌 <a href="https://github.com/sunMozi">GitHub</a>
+  📌 <a href="https://space.bilibili.com/435935365">Bilibili</a> |
+  📌 <a href="https://github.com/finally-zpw">GitHub</a>
 </p>
 
 ---
