@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://zpw.xyz/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=100&size=45&duration=4000&pause=4000&center=true&vCenter=true&multiline=true&width=420&height=70&lines=Zyan.github.io" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=100&size=45&duration=4000&pause=4000&center=true&vCenter=true&multiline=true&width=420&height=70&lines=zpw" alt="Typing SVG" />
   </a>
 </p>
 
